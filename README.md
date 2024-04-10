@@ -1,4 +1,4 @@
-## Project for Image Processing and Camera Calibration Laboratory Exercises
+## Image Processing and Camera Calibration Projcets and Laboratory Exercises
 
 ## [Digital Image Processing and Analysis (DIPA)](https://www.fer.unizg.hr/en/course/dipaa)
 
