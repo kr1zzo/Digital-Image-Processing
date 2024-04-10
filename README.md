@@ -1,52 +1,67 @@
-## Projekti i laboratorijske vježbe iz obrade slike i kalibracije kamere
+## Project for Image Processing and Camera Calibration Laboratory Exercises
 
-## Digitalna obrada i analiza slike (DIPA)
+## [Digital Image Processing and Analysis (DIPA)](https://www.fer.unizg.hr/en/course/dipaa)
 
-### 1. laboratorisjka vježba
+### Lab Exercise 1
 
 Image representations, Unary operations on the image, Binary operations, Linear convolution
 
-### 2. laboratorijska vježba
+### Lab Exercise 2
 
 Quantization, Sampling, Pixelization, Alias effect, Moiré effect
 
-### 3. laboratorijska vježba
+### Lab Exercise 3
 
 Discrete Fourier transform, Image filtering, Discrete cosine transform, DCT and image compression
 
-### 4. laboratorijska vježba
+### Lab Exercise 4
 
 First order histogram, Histogram modeling, Average filtering and median filtering, Unsharpness removal
 
-### 5. laboratorijska vježba
+### Lab Exercise 5
 
-Image acquisition systems, Image restoration,  Inverse filter, Pseudo-inverse filter, Wiener filter
+Image acquisition systems, Image restoration, Inverse filter, Pseudo-inverse filter, Wiener filter
 
-### 6. laboratorijska vježba
+### Lab Exercise 6
 
-Spatial features, Amplitude features, Texture features,  First order histogram features, Second order histogram features, Edge detection: Sobel and Prewitt operator, Compass operators, Laplacian operator for edge detection
+Spatial features, Amplitude features, Texture features, First order histogram features, Second order histogram features, Edge detection: Sobel and Prewitt operator, Compass operators, Laplacian operator for edge detection
 
-### 7. laboratorijska vježba
+### Lab Exercise 7
 
 Amplitude segmentation, Automatic determination of the threshold, Extraction of edges, Texture segmentation
 
-### 8. laboratorijska vježba
+### Lab Exercise 8
 
 Image registration, Optical flow
 
-## Senzori, percepcija i aktuacija u robotici (SPAR)
+## [Sensors, Perception, and Actuation in Robotics (SPAR)](https://www.fer.unizg.hr/en/course/rspaa)
 
-### 3. laboratorijska vježba - Umjeravanje kamere planarnom umjernom metom
+### Lab Exercise 3 - Camera Calibration with Planar Calibration Target
 
-* Umjeravanje kamere sintetičkim nezašumljenim mjerenjima
-* Umjeravanje kamere sintetičkim zašumljenim mjerenjima
-* Umjeravanje kamere na stvarnim podatcima
+* Camera calibration with synthetic noise-free measurements
+* Camera calibration with synthetic noisy measurements
+* Camera calibration with real data
 
-### 4. laboratorijska vježba - Detekcija značajki i optički tok
+### Lab Exercise 4 - Feature Detection and Optical Flow
 
-* Harrisov detektor kutova
-* Optički tok
+* Harris corner detector
+* Optical flow
 
-## Praktikum robotike (PRAROB)
+## [Robotics Practicum (PRAROB)](https://www.fer.unizg.hr/en/course/robpra)
 
-* Projekt iz Praktikuma robotike - segmentacija i filtriranje slike nalaženje centra mase, segmentacija boja, prepoznavanje uzoraka na slici
+* Robotics Practicum Project - image segmentation and filtering, finding the center of mass, color segmentation, pattern recognition on images
+
+
+## Credits
+
+#### [&copy; Faculty of Electrical Engineering and Computing, University of Zagreb, 2022/2023](https://www.fer.unizg.hr/)
+
+
+
+&NewLine;
+
+Contributors names and contact info
+
+Author|GitHub | e-mail
+| :--- | :---: | :---:
+Enio Krizman  | [@kr1zzo](https://github.com/kr1zzo) | enio.krizman@fer.
